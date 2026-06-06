@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:7c5cfc&height=200&section=header&text=Pardhu%20Chandrakanth%20Katta&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20ML%20%7C%20NLP%20%7C%20GenAI&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0d14,50:0d2137,100:00d4ff&height=200&section=header&text=Pardhu%20Chandrakanth%20Katta&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20ML%20%7C%20NLP%20%7C%20GenAI&descAlignY=58&descSize=18" />
 
 <br/>
 
@@ -172,19 +172,15 @@ pardhu = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pardhukatta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0a0d14&title_color=00d4ff&icon_color=7c5cfc&text_color=e8edf5&border_color=1e2a40"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=pardhukatta&theme=tokyonight&background=0a0d14&ring=00d4ff&fire=7c5cfc&currStreakLabel=00d4ff&border=1e2a40&sideLabels=00d4ff&dates=8892a4)](https://git.io/streak-stats)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pardhukatta&layout=compact&langs_count=8&theme=tokyonight&bg_color=0a0d14&title_color=00d4ff&text_color=e8edf5&border_color=1e2a40"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=pardhukatta&theme=tokyonight&background=0a0d14&ring=00d4ff&fire=7c5cfc&currStreakLabel=00d4ff&border=1e2a40)](https://git.io/streak-stats)
+![Profile Views](https://komarev.com/ghpvc/?username=pardhukatta&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
+![Repos](https://img.shields.io/badge/Public%20Repos-Growing-7c5cfc?style=for-the-badge&logo=github)
+![Focus](https://img.shields.io/badge/Focus-AI%20%26%20ML-00d4ff?style=for-the-badge&logo=python)
 
 </div>
 
@@ -192,6 +188,6 @@ pardhu = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c5cfc,100:00d4ff&height=120&section=footer&text=Open%20to%20Opportunities%20🚀&fontSize=24&fontColor=ffffff&fontAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0d2137,100:0a0d14&height=120&section=footer&text=Open%20to%20Opportunities%20🚀&fontSize=24&fontColor=ffffff&fontAlignY=65"/>
 
 </div>
