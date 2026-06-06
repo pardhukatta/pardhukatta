@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0d14,50:0d2137,100:00d4ff&height=200&section=header&text=Pardhu%20Chandrakanth%20Katta&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20ML%20%7C%20NLP%20%7C%20GenAI&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a1628,100:0066ff&height=200&section=header&text=Pardhu%20Chandrakanth%20Katta&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20ML%20%7C%20NLP%20%7C%20GenAI&descAlignY=58&descSize=18" />
 
 <br/>
 
@@ -188,6 +188,6 @@ pardhu = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0d2137,100:0a0d14&height=120&section=footer&text=Open%20to%20Opportunities%20🚀&fontSize=24&fontColor=ffffff&fontAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066ff,50:0a1628,100:000000&height=120&section=footer&text=Open%20to%20Opportunities%20🚀&fontSize=24&fontColor=ffffff&fontAlignY=65"/>
 
 </div>
